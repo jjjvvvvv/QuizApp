@@ -3,11 +3,11 @@
 
 # QuizApp ❓
 
-## Our Goal
+## Intro
 
 In Flutter class that I am taking this chapter will include reviewing Stateful and Stateless Widgets as well as learning about the fundamental building blocks of Object Oriented Programming (OOP) - Classes and Objects. 
 
-## What I will learned
+## What I learned
 
 - Modularising code into separate classes.
 - Dart classes and objects.
