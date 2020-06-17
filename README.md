@@ -16,13 +16,6 @@ In Flutter class that I am taking this chapter will include reviewing Stateful a
 - private and public modifiers in Dart.
 - How to use Dart lists.
 - The difference between var, const and final.
-
-## Code Snippet for Project
-
-```
-
-
-```
-
+- Abstraction, Encapsulation, Inheritence, and Polymorphism. 
 
 >This is a companion project to The App Brewery's Complete Flutter Development Bootcamp, check out the full course at [www.appbrewery.co](https://www.appbrewery.co/)
