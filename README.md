@@ -5,7 +5,7 @@
 
 ## Intro
 
-In Flutter class that I am taking this chapter will include reviewing Stateful and Stateless Widgets as well as learning about the fundamental building blocks of Object Oriented Programming (OOP) - Classes and Objects. 
+This project will review Stateful and Stateless Widgets as well as explore some of the fundamental building blocks of Object Oriented Programming (OOP) - Classes and Objects. 
 
 ## What I learned
 
