@@ -35,7 +35,7 @@ class _QuizPageState extends State<QuizPage> {
     bool correctAnswer = quizBrain.getAnswer();
 
     setState(() {
-      if (quizBrain.isFinished()) {
+      if (quizBrain.isFinished() == true) {
         Alert(
                 context: context,
                 title: "Congratulations",
