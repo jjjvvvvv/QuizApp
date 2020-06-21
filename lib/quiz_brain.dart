@@ -1,3 +1,5 @@
+import 'package:quizzler/main.dart';
+
 import 'question.dart';
 
 class QuizBrain {
@@ -43,5 +45,21 @@ class QuizBrain {
 
   bool getAnswer() {
     return _questionBank[_questionNumber].questionAnswer;
+  }
+
+  bool isFinished() {
+    if (_questionNumber == 12) {
+      print('question 12');
+      return true;
+    } else {
+      print('not');
+      return false;
+    }
+  }
+
+  void reset() {
+    if (quizBrain.isFinished() == true) {
+      _questionNumber = 0;
+    }
   }
 }
