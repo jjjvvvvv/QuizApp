@@ -49,10 +49,8 @@ class QuizBrain {
 
   bool isFinished() {
     if (_questionNumber == 12) {
-      print('question 12');
       return true;
     } else {
-      print('not');
       return false;
     }
   }
